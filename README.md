@@ -1,3 +1,6 @@
+-- This application is developed according to the tutorial by Lama Dev. --
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
